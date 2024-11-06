@@ -1,0 +1,15 @@
+{
+    "database_path": "D:\\\\MediaDatabase",
+    "api_keys": {
+        "pexels": "pffXkik9X6W9rooyyI6L4WdxSbQ26zI3MeNnbx0p9H8yyObdOkzAtame",
+        "pixabay": "46918535-b07a5dbebec062a8e83c0e522",
+        "unsplash": "",
+        "videvo": "",
+        "mixkit": "",
+        "opengameart": "",
+        "vidlery": "",
+        "nasa": ""
+    },
+    "log_level": "INFO",
+    "metadata_path": "metadata"
+}
